@@ -1,0 +1,74 @@
+*{
+
+    background-color: #565665;
+
+    color: #ffffff;
+
+}
+
+.header{
+
+display: flex;
+
+justify-content: space-between;
+
+padding: 20px;
+
+}
+
+.body{
+    margin: 0px;
+
+    display: flexbox;
+
+    justify-content:space-between;
+
+    font-style: italic;
+
+    font-size: 30px;
+
+    text-align: center;
+
+
+
+}
+
+.grid{
+
+    display: flex;
+
+    flex-wrap:wrap;
+
+    justify-content: space-evenly;
+
+
+
+}
+
+.tsuru{
+
+
+    margin: 80px;
+
+    border: 400px;
+
+}
+.dragon{
+    margin: 80px;
+
+
+
+}
+.flower{
+    margin: 80px;
+
+
+
+}
+.trex{
+
+    margin: 80px;
+
+
+
+}
